@@ -1,5 +1,5 @@
 # 🛡️ Writeup: Guided Pentest - Infrastructure (TryHackMe)
-**Author:** Long Wei  
+**Author:** Eliaz Andry  
 **Difficulty:** Beginner / Intermediate  
 **Target System:** Ubuntu Linux  
 
